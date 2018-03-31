@@ -7,8 +7,6 @@ var mentor5 = "Yohannes";
 function percen(){
 }
 
-0.53846153846;
-
 function percen()
 {}
 
